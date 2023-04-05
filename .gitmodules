@@ -1,0 +1,3 @@
+[submodule "coco-website"]
+	path = coco-website
+	url = https://github.com/yswdqz/coco-website.git
